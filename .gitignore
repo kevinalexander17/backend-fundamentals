@@ -40,3 +40,4 @@ replay_pid*              # Logs de crash de la JVM
 *~                       # Backup de editores
 .DS_Store                # MacOS
 Thumbs.db                # Windows
+HELP.md                  # No se sube, no aporta al proyecto
